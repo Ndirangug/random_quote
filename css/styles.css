@@ -1,0 +1,13 @@
+blockquote{
+    color:white;
+    font-weight: 900;
+    text-align: center;
+}
+
+.quote{
+    padding: 1em;
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 1em;
+    width:80%;
+    margin: 15em auto auto auto;
+}
